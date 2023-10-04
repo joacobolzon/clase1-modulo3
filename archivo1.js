@@ -1,1 +1,3 @@
-console.log("archivo 1")
+const funcionsita = () => {
+  console.log("archivo 1");
+};
